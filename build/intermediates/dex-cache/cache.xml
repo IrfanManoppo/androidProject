@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\X550Z FX\.android\build-cache\929bb453262f98eb6bf248e95f8078d345843bf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\Project\Latihan1\app\build\intermediates\pre-dexed\debug\classes_0ce4ba29f8d8b2ab7461aa2e57b8559029850711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X550Z FX\.android\build-cache\cec81aecbad6b27cc56a6f61b8208a4a8189e162\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\Project\Latihan1\app\build\intermediates\pre-dexed\debug\classes_c8c7a55450f08b112ade69e6f86a45bf63815c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X550Z FX\.android\build-cache\963e81ad1bad2d476bd23601322302952100ccf6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\Project\Latihan1\app\build\intermediates\pre-dexed\debug\classes_8a5ee0922093c5244b0c755e33510b950f5db968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X550Z FX\.android\build-cache\8d58252bde86ad714e886386d8c3307f8fa5ef94\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\Project\Latihan1\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_72573555ac3a35b483759bfe4a54be7a55cb7a4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\Project\Latihan1\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_9e78d40d157f34b8dbf346345a1d6a8544ee87ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X550Z FX\.android\build-cache\8d58252bde86ad714e886386d8c3307f8fa5ef94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\Project\Latihan1\app\build\intermediates\pre-dexed\debug\classes_6765ad12e3bc5164617a2769b9f105ae9d84e8fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X550Z FX\.android\build-cache\55160bd47a8530d45d234e92ab73272d6971bc56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="D:\Project\Latihan1\app\build\intermediates\pre-dexed\debug\classes_fc34aabb486cb546bfeabcf76cb88a5ce9fd21d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="D:\Project\Latihan1\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_48e04f63ac3b50425b1d6dfe9b0ee852377c2a4d.jar" />
+    </item>
+
+</items>
